@@ -1,0 +1,54 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: inherit;
+  height: 100% ;
+  box-sizing: border-box;
+
+}
+
+/* .card {
+  padding: 2em;
+} */
+
+.read-the-docs {
+  color: #888;
+}
+.product_price{
+  color: red;
+}
+
+
+img{
+  max-width: 75%;
+  height: 0 auto;
+  display: flex;
+  align-self: center;
+  justify-self: center;
+  
+}
+
+.card{
+  width:inherit;
+  height: auto;
+  background-color: aliceblue;
+  margin: 20px;
+  color: #888;
+  padding: 2rem;
+  overflow: hidden;
+
+}
+.card-all{
+  width:inherit;
+  height:100%;
+ 
+
+}
+.for-img{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
